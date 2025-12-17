@@ -5,4 +5,4 @@ function isLeapYear(year) {
     return "Not a Leap Year";
   }
 }
-
+console.log(isLeapYear(2020));

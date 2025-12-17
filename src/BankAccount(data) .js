@@ -71,8 +71,6 @@ function processBankAccount(data) {
   console.log(result);
   return result;
 }
-
-/* Sample Test */
 processBankAccount({
   accountNumber: "ACC101",
   accountHolder: "Jayesh Sharma",

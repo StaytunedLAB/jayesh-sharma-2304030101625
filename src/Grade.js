@@ -24,3 +24,4 @@ function calculateGrade(marks) {
   return grade;
 }
 
+console.log(calculateGrade(85));

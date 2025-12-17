@@ -13,3 +13,4 @@ for (let i = 1; i < n; i++) {
     a = b;            
     b = next;        
 }
+console.log("Fibonacci sequence complete.");
